@@ -1,0 +1,16 @@
+{
+  "name": "masterminds/fortissimo-cli-base",
+  "description": "A skeleton for a Fortissimo CLI based application.",
+  "require": {
+    "masterminds/fortissimo": "3.0.0-alpha1",
+    "masterminds/fortissimo-cli": "dev-master"
+  },
+  "authors": [
+    {
+      "name": "Matt Farina",
+      "email": "matt@mattfarina.com"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["Console","CLI", "Skeleton"]
+}
